@@ -1,0 +1,5 @@
+output:
+TheOutputReport.pdf
+files:
+.\example\report.pdf
+".\example\Appendix\Appendix A.pdf"
